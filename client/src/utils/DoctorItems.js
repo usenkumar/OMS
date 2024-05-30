@@ -1,4 +1,4 @@
-import PatientManagement from "../pages/Doctor/PatientManagement.js";
+import PatientManagement from "../pages/Doctor/";
 import AppointmentPage from "../pages/Doctor/Appointmentpage.js";
 import DoctorDashboard from "../pages/Doctor/DoctorDashboard.js";
 import MedicalReports from "../pages/Doctor/MedicalReports.js";
